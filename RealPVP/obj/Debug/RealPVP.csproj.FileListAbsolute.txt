@@ -1,0 +1,12 @@
+C:\Users\emiri\source\repos\RealPVP\RealPVP\bin\Debug\RealPVP.exe.config
+C:\Users\emiri\source\repos\RealPVP\RealPVP\bin\Debug\RealPVP.exe
+C:\Users\emiri\source\repos\RealPVP\RealPVP\bin\Debug\RealPVP.pdb
+C:\Users\emiri\source\repos\RealPVP\RealPVP\obj\Debug\RealPVP.csproj.AssemblyReference.cache
+C:\Users\emiri\source\repos\RealPVP\RealPVP\obj\Debug\RealPVP.Properties.Resources.resources
+C:\Users\emiri\source\repos\RealPVP\RealPVP\obj\Debug\RealPVP.csproj.GenerateResource.cache
+C:\Users\emiri\source\repos\RealPVP\RealPVP\obj\Debug\RealPVP.csproj.CoreCompileInputs.cache
+C:\Users\emiri\source\repos\RealPVP\RealPVP\obj\Debug\RealPVP.exe
+C:\Users\emiri\source\repos\RealPVP\RealPVP\obj\Debug\RealPVP.pdb
+C:\Users\emiri\source\repos\RealPVP\RealPVP\obj\Debug\RealPVP.Main.resources
+C:\Users\emiri\source\repos\RealPVP\RealPVP\bin\Debug\Guna.UI2.dll
+C:\Users\emiri\source\repos\RealPVP\RealPVP\obj\Debug\RealPVP.csproj.CopyComplete
